@@ -1,6 +1,6 @@
 # Telegram bot game in DnD style.
 
-**Stack: TypeScript, Telegraph, PostgreSQL, Sequelize**
+**Stack: TypeScript, Telegraf, PostgreSQL, Sequelize**
 
 **Quick start:**
 
