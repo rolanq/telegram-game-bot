@@ -47,7 +47,6 @@ start.on("text", async (ctx) => {
 start.on("callback_query", async (ctx) => pagination.handlePagination(ctx));
 
 start.on("dice", async (ctx) => {
-  console.log("ASDASDSJHABAJSHBDAHJSBDSAFDAYSVBDATYSFDASVDUGV");
 
   if (ctx.message.dice.emoji !== "🎲") {
     ctx.reply("Отправьте кубик");
